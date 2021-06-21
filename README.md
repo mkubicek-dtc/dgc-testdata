@@ -1,3 +1,4 @@
+TEST
 <h1 align="center">
  EU Digital COVID Certificate: Test Data Repository for Test Automation
 </h1>
